@@ -4,7 +4,10 @@ It provides visualizations for both customer and credit card profiles, presentin
 The dashboard includes features for both weekly and quarterly reports, offering a detailed overview of credit card performance over time. 
 In conclusion, the dashboard provides stakeholders with valuable tools to make informed decisions and drive improvements in credit card operations.
 
-Technology STack : 
+![image](https://github.com/AbhijithNidanakavi/Credit_Risk_Analysis_PowerBI/assets/91921508/85b91051-d29c-490b-b44e-6b2c413a3408)
+
+
+**Technology Stack :**
 **PostgreSQL:** Utilized for data storage and management.
 **Power BI :** Employed for creating insightful data visualizations and interactive dashboards.
 **DAX (Data Analysis Expressions):** Utilized within Power BI for advanced data manipulation and calculation tasks.
@@ -14,11 +17,13 @@ Technology STack :
 	• Developed an interactive dashboard utilizing transaction and customer data from a PostgreSQL database to deliver real-time insights.
 	• Enhanced data processing and analysis methods to effectively monitor key performance metrics and trends.
 	• Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
+ 
 **Dashboard Features:**
 	• Real-Time Insights: Provides real-time updates on key performance metrics, facilitating timely monitoring of credit card operations.
 	• Key Performance Metrics: Tracks various KPIs such as transaction volumes, customer spending patterns, and credit card usage trends.
 	• Trends Analysis: Analyzes historical data to identify trends and patterns in credit card operations.
 	• User-Friendly Interface: Designed with an interactive interface for ease of use and accessibility for all stakeholders.
+
 **Usage:**
 	1. Data Preparation: Organize transaction and customer data in a CSV file.
 	2. SQL Database Setup:
@@ -27,4 +32,5 @@ Technology STack :
 	3. Power BI Dashboard:
 		○ Connect Power BI to the PostgreSQL database.
 		○ Develop and customize the dashboard to display required metrics and insights using DAX for calculations.
+
 Stakeholder Engagement: Regularly update stakeholders with findings and actionable insights derived from the dashboard.
