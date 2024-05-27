@@ -17,6 +17,9 @@ In conclusion, the dashboard provides stakeholders with valuable tools to make i
 	• Developed an interactive dashboard utilizing transaction and customer data from a PostgreSQL database to deliver real-time insights.
 	• Enhanced data processing and analysis methods to effectively monitor key performance metrics and trends.
 	• Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
+
+ ![image](https://github.com/AbhijithNidanakavi/Credit_Risk_Analysis_PowerBI/assets/91921508/8df61be8-a180-4d9b-b24b-de3501dab164)
+
  
 **Dashboard Features:**
 	• Real-Time Insights: Provides real-time updates on key performance metrics, facilitating timely monitoring of credit card operations.
