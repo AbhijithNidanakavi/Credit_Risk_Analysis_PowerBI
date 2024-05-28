@@ -15,8 +15,7 @@ In conclusion, the dashboard provides stakeholders with valuable tools to make i
 	• Enhanced data processing and analysis methods to effectively monitor key performance metrics and trends.
 	• Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
- ![image](https://github.com/AbhijithNidanakavi/Credit_Risk_Analysis_PowerBI/assets/91921508/8df61be8-a180-4d9b-b24b-de3501dab164)
-
+![image](https://github.com/AbhijithNidanakavi/Credit_Risk_Analysis_PowerBI/assets/91921508/8df61be8-a180-4d9b-b24b-de3501dab164)
  
 **Dashboard Features:**
 	• Real-Time Insights: Provides real-time updates on key performance metrics, facilitating timely monitoring of credit card operations.
@@ -24,13 +23,17 @@ In conclusion, the dashboard provides stakeholders with valuable tools to make i
 	• Trends Analysis: Analyzes historical data to identify trends and patterns in credit card operations.
 	• User-Friendly Interface: Designed with an interactive interface for ease of use and accessibility for all stakeholders.
 
+![Power BI](https://github.com/AbhijithNidanakavi/Credit_Risk_Analysis_PowerBI/assets/91921508/10810eeb-b6e4-4e33-bcb9-7ae2bab6f939)
+
 **Usage:**
-	1. Data Preparation: Organize transaction and customer data in a CSV file.
+ 
+ 1. Data Preparation: Organize transaction and customer data in a CSV file.
 	2. SQL Database Setup:
 		○ Create necessary tables in the PostgreSQL database.
 		○ Import the CSV file into the PostgreSQL database.
 	3. Power BI Dashboard:
 		○ Connect Power BI to the PostgreSQL database.
 		○ Develop and customize the dashboard to display required metrics and insights using DAX for calculations.
+
 
 Stakeholder Engagement: Regularly update stakeholders with findings and actionable insights derived from the dashboard.
