@@ -4,9 +4,6 @@ It provides visualizations for both customer and credit card profiles, presentin
 The dashboard includes features for both weekly and quarterly reports, offering a detailed overview of credit card performance over time. 
 In conclusion, the dashboard provides stakeholders with valuable tools to make informed decisions and drive improvements in credit card operations.
 
-![image](https://github.com/AbhijithNidanakavi/Credit_Risk_Analysis_PowerBI/assets/91921508/85b91051-d29c-490b-b44e-6b2c413a3408)
-
-
 **Technology Stack :**
 **PostgreSQL:** Utilized for data storage and management.
 **Power BI :** Employed for creating insightful data visualizations and interactive dashboards.
